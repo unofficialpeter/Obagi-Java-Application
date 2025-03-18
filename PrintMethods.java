@@ -10,7 +10,7 @@ public class PrintMethods{
 		System.out.printf(" my name is %s and i love %s", "Peter", "Java");
 		System.out.printf("\n I am living in number %d Kaduna Street", 1);
 		System.out.printf("\n i bought java with %.6f Naira", 32.486);
-		System.out.printf("\n i bought java with %c%f", 32.486, '$');
+		System.out.printf("\n i bought java with %c%f",'$', 32.486);
 	}
 	
 }
